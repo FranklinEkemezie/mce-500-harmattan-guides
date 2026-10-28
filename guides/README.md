@@ -31,6 +31,8 @@ One file per course. Every guide has the same shape: overview, BMAS synopsis, so
 
 ## Reference policy
 
+What is not in this repository, and why: [RESOURCES.md](RESOURCES.md).
+
 - Textbook references are chapter/section/page specific, taken from the PDFs in the course Drive folder (see the root README). Page numbers refer to those PDFs; other editions may shift by a few pages.
 - Where a course has no adequate text, the guide points to a free, verified source: MIT OpenCourseWare (6.003, 2.003SC, 6.777J), the Modern Robotics site, `dspguide.com`, RealPars, or Purdue OWL for IEEE style.
 - Online links are optional backup; the book chapter is always the primary source.

@@ -66,7 +66,6 @@ These are free and were checked when the guides were written. Use them as backup
 - [MIT 2.003SC: Engineering Dynamics](https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/) — vibration and MDOF units (MCE 507).
 - [RealPars](https://www.realpars.com/blog/) — short PLC, SCADA, fieldbus and motor-starter articles (MCE 511, 513).
 - [MIT 6.777J: Design and Fabrication of MEMS](https://ocw.mit.edu/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/) — the microfabrication sequence (MCE 521).
-- [Purdue OWL: IEEE style](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html) — citations and references (MCE 515, 529).
 
 ## A note on editions
 
