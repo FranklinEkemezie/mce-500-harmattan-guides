@@ -48,7 +48,7 @@ Corrections are welcome — wrong page numbers, a clearer explanation, a missing
 
 ## Licence
 
-Text is released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt for non-commercial use, with attribution and the same licence. See [`LICENSE`](LICENSE).
+Text is released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt for non-commercial use, with attribution and the same licence. See [`LICENSE`](LICENSE). This covers the guide text only; textbooks, lecturer notes and past papers remain the property of their authors and institutions.
 
 ## Acknowledgements
 
