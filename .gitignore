@@ -1,0 +1,38 @@
+# Course materials — not redistributed
+Resources/
+*.pdf
+*.PDF
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.zip
+*.rar
+
+# Images and scans (add specific exceptions if a diagram is ever needed)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tif
+*.tiff
+*.bmp
+
+# OS and editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+.obsidian/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local scratch
+*.tmp
+*.bak
+*.orig
